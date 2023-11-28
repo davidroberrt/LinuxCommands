@@ -20,19 +20,19 @@ Este repositório contém uma coleção de comandos Linux úteis, organizados po
 14. [Controle de Pacotes](#controle-de-pacotes)
 15. [Controle de Energia](#controle-de-energia)
 16. [Segurança de Rede](#segurança-de-rede)
-17. [Ferramentas de Desenvolvimento (Continuação)](#ferramentas-de-desenvolvimento-continuação)
+17. [Ferramentas de Desenvolvimento (Continuação)](#ferramentas-de-desenvolvimento)
 18. [Manipulação de Processos](#manipulação-de-processos)
 19. [Monitoramento de Hardware](#monitoramento-de-hardware)
 20. [Ferramentas de Rede Avançadas](#ferramentas-de-rede-avançadas)
-21. [Logs e Auditoria (Continuação)](#logs-e-auditoria-continuação)
+21. [Logs e Auditoria (Continuação)](#logs-e-auditoria)
 22. [Compilação de Código (Continuação)](#compilação-de-código-continuação)
-23. [Controle de Recursos e Desempenho (Continuação)](#controle-de-recursos-e-desempenho-continuação)
+23. [Controle de Recursos e Desempenho (Continuação)](#controle-de-recursos-e-desempenho)
 24. [Comandos de Rede (Continuação)](#comandos-de-rede-continuação)
-25. [Controle de Processos (Continuação)](#controle-de-processos-continuação)
-26. [Controle de Recursos (Continuação)](#controle-de-recursos-continuação)
+25. [Controle de Processos (Continuação)](#controle-de-processos)
+26. [Controle de Recursos (Continuação)](#controle-de-recursos)
 27. [Ambiente Gráfico](#ambiente-gráfico)
 28. [Configuração do Shell](#configuração-do-shell)
-29. [Logs e Auditoria (Continuação)](#logs-e-auditoria-continuação)
+29. [Logs e Auditoria (Continuação)](#logs-e-auditoria)
 
 ## Comandos Linux (Ubuntu)
 
@@ -146,7 +146,7 @@ Este repositório contém uma coleção de comandos Linux úteis, organizados po
 - `sudo iptables -L -n`: Lista regras de firewall no Linux.
 - `sudo fail2ban-client status`: Exibe o status do Fail2Ban.
 
-### Ferramentas de Desenvolvimento (Continuação)
+### Ferramentas de Desenvolvimento 
 
 - `gcc nome-do-arquivo.c -o nome-do-executavel`: Compila código-fonte C.
 - `make clean`: Remove arquivos gerados durante a compilação.
