@@ -32,7 +32,6 @@ Este repositório contém uma coleção de comandos Linux úteis, organizados po
 26. [Controle de Recursos (Continuação)](#controle-de-recursos)
 27. [Ambiente Gráfico](#ambiente-gráfico)
 28. [Configuração do Shell](#configuração-do-shell)
-29. [Logs e Auditoria (Continuação)](#logs-e-auditoria)
 
 ## Comandos Linux (Ubuntu)
 
