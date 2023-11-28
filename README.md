@@ -715,3 +715,45 @@ Lembre-se de que alguns comandos podem exigir privilégios de superusuário (`su
 - `valgrind nome-do-programa`: Executa um programa sob a ferramenta de análise de memória Valgrind.
 
 - `gdb nome-do-programa`: Inicia o depurador GNU.
+
+
+## Logs e Auditoria
+
+- `last`: Exibe histórico de logins no sistema.
+
+- `journalctl -u nome-do-servico -n 50`: Mostra as últimas 50 entradas no log de um serviço.
+
+- `auditd`: Inicia o serviço de auditoria para rastrear alterações no sistema.
+
+## Compilação de Código
+
+- `gcc nome-do-arquivo.c -o nome-do-executavel`: Compila código-fonte C.
+
+- `make clean`: Remove arquivos gerados durante a compilação.
+
+- `ldd nome-do-executavel`: Lista bibliotecas dinâmicas necessárias por um executável.
+
+## Manipulação de Processos
+
+- `pstree`: Exibe uma árvore de processos.
+
+- `pgrep -u nome-do-usuario`: Lista IDs de processos associados a um usuário.
+
+- `kill -s sinal PID`: Envia um sinal específico para um processo.
+
+## Monitoramento de Hardware
+
+- `sensors`: Exibe informações de sensores de temperatura.
+
+- `lspci`: Lista todos os dispositivos PCI conectados.
+
+- `lsusb`: Lista todos os dispositivos USB conectados.
+
+## Ferramentas de Rede Avançadas
+
+- `nload -u K`: Monitora o uso de banda em kilobits.
+
+- `iperf -s`: Inicia um servidor de teste de velocidade de rede.
+
+- `dig nome-do-domínio`: Obtém informações de DNS para um domínio.
+
