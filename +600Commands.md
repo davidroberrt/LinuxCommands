@@ -1,4 +1,4 @@
-# Comandos Básicos do Linux (Ubuntu)
+# Comandos do Básico ao Avançado do Linux (Ubuntu, Mint, Debian etc...)
 
 ## Navegação no Sistema de Arquivos
 
